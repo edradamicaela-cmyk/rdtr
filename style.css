@@ -1,0 +1,30 @@
+
+/* External CSS */
+
+section {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+section p,
+section li {
+    line-height: 1.8;
+}
+
+header p {
+    margin: 8px;
+}
+
+h3 {
+    color: #345678;
+}
+
+footer {
+    background-color: #123456;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+button:hover {
+    background-color: #345678;
+}
